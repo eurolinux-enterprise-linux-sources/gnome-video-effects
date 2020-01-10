@@ -1,0 +1,6 @@
+[Effect]
+Encoding=UTF-8
+# Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
+_Name=Radioactive
+_Comment=Detect radioactivity and show it
+PipelineDescription=radioactv
