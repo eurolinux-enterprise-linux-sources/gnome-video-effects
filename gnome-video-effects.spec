@@ -1,6 +1,6 @@
 Name:           gnome-video-effects
-Version:        0.4.0
-Release:        6%{?dist}
+Version:        0.4.1
+Release:        1%{?dist}
 Summary:        Collection of GStreamer video effects
 
 Group:          System Environment/Libraries
@@ -36,6 +36,9 @@ make install DESTDIR=$RPM_BUILD_ROOT
 
 
 %changelog
+* Mon Apr 14 2014 Richard Hughes <rhughes@redhat.com> - 0.4.1-1
+- Update to 0.4.1
+
 * Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.4.0-6
 - Mass rebuild 2013-12-27
 
