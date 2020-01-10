@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"video-effects&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-11-06 11:00+0000\n"
-"PO-Revision-Date: 2012-12-18 01:06+0100\n"
-"Last-Translator: TmTFx <f.t.public@gmail.com>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
+"effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-04-07 22:42+0000\n"
+"PO-Revision-Date: 2016-04-08 10:24+0200\n"
+"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <fur@li.org>\n"
 "Language: fur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -117,12 +118,12 @@ msgstr "Hulk"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Trasforme te stès in tal maraveôs Hulk"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
-msgstr "Invertît"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
+msgstr "Inversion"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Invertis i colors dal video"
 
@@ -187,7 +188,7 @@ msgstr "Quark"
 
 #: ../effects/quarktv.effect.in.h:3
 msgid "Dissolves moving objects in the video input"
-msgstr "Sfante i obiets che a si movin tal video"
+msgstr "Sfante i ogjets che si movin tal video"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#radioactv
 #: ../effects/radioactv.effect.in.h:2
@@ -312,7 +313,7 @@ msgid "Warp"
 msgstr "Warp"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Trasforme il video dant un efiet tacatiç"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray

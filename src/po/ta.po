@@ -19,7 +19,7 @@ msgstr ""
 "PO-Revision-Date: 2012-02-28 17:25+0530\n"
 "Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
-"Language: \n"
+"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -316,7 +316,7 @@ msgid "Vertigo"
 msgstr "வெர்ட்டிகோ"
 
 #: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "விடியோவின் உள்ளீட்டை நிகழ்நேர கூயிங் ஆக்குகிறது"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv

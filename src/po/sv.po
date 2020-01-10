@@ -1,21 +1,24 @@
 # gnome-video-effects Swedish translation
-# Copyright (C) 2007, 2008, 2009, 2010, 2011, 2012 Free Software Foundation, Inc.
+# Copyright © 2007-2015 Free Software Foundation, Inc.
 # This file is distributed under the same license as cheese
 # Daniel Nylander <po@danielnylander.se>, 2007, 2008, 2009, 2010, 2011, 2012.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2014, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-video-effects\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-02-19 00:48+0100\n"
-"PO-Revision-Date: 2012-02-19 00:49+0100\n"
-"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-"
+"effects&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-02-02 09:24+0000\n"
+"PO-Revision-Date: 2015-02-02 19:45+0100\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.3\n"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#bulge
 #: ../effects/bulge.effect.in.h:2
@@ -56,20 +59,20 @@ msgstr "Transformera videoinmatningen till ett metallisk utseende"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#dicetv
 #: ../effects/dicetv.effect.in.h:2
 msgid "Dice"
-msgstr "Tärning"
+msgstr "Kvadrater"
 
 #: ../effects/dicetv.effect.in.h:3
 msgid "Dices the video input into many small squares"
-msgstr "Tärnar videoinmatningen till många små fyrkanter"
+msgstr "Dela upp videoinmatningen i många små kvadrater."
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#distortion
 #: ../effects/distortion.effect.in.h:2
 msgid "Distortion"
-msgstr "Distortion"
+msgstr "Distorsion"
 
 #: ../effects/distortion.effect.in.h:3
 msgid "Distort the video input"
-msgstr "Lägg till distortion till videoinmatningen"
+msgstr "Lägg till distorsion till videoinmatningen"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#edgetv
 #: ../effects/edgetv.effect.in.h:2
@@ -115,32 +118,32 @@ msgstr "Hulken"
 msgid "Transform yourself into the amazing Hulk"
 msgstr "Transformera dig själv till den fantastiske Hulken"
 
-#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#invertion
-#: ../effects/invertion.effect.in.h:2
-msgid "Invertion"
+#. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#inversion
+#: ../effects/inversion.effect.in.h:2
+msgid "Inversion"
 msgstr "Invertera"
 
-#: ../effects/invertion.effect.in.h:3
+#: ../effects/inversion.effect.in.h:3
 msgid "Invert colors of the video input"
 msgstr "Invertera färgerna i videoinmatningen"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#kaleidoscope
 #: ../effects/kaleidoscope.effect.in.h:2
 msgid "Kaleidoscope"
-msgstr "Kaleidoskop"
+msgstr "Kalejdoskop"
 
 #: ../effects/kaleidoscope.effect.in.h:3
 msgid "A triangle Kaleidoscope"
-msgstr "Ett triangulärt Kaleidoskop"
+msgstr "Ett triangulärt Kalejdoskop"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mauve
 #: ../effects/mauve.effect.in.h:2
 msgid "Mauve"
-msgstr "Mauve"
+msgstr "Lila"
 
 #: ../effects/mauve.effect.in.h:3
 msgid "Transform video input into a mauve color"
-msgstr "Transformera videoinmatningen till en mauve-färg"
+msgstr "Transformera videoinmatningen till att gå i lila."
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#mirror
 #: ../effects/mirror.effect.in.h:2
@@ -253,11 +256,11 @@ msgstr "Extraherar kanter i videoinmatningen genom att använda Sobel-operatorn"
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#square
 #: ../effects/square.effect.in.h:2
 msgid "Square"
-msgstr "Fyrkant"
+msgstr "Centrumkvadrat"
 
 #: ../effects/square.effect.in.h:3
 msgid "Makes a square out of the center of the video"
-msgstr "Gör en fyrkant i centrum av videon"
+msgstr "Gör centrum av videon kvadratiskt"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#streaktv
 #: ../effects/streaktv.effect.in.h:2
@@ -310,7 +313,7 @@ msgid "Warp"
 msgstr "Gegga"
 
 #: ../effects/warptv.effect.in.h:3
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "Transformera videoinmatningen till gegga i realtid"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#xray
@@ -321,6 +324,3 @@ msgstr "Röntgen"
 #: ../effects/xray.effect.in.h:3
 msgid "Invert and slightly shade to blue"
 msgstr "Invertera och skugga lätt till blått"
-
-#~ msgid "No Effect"
-#~ msgstr "Ingen effekt"

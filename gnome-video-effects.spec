@@ -1,11 +1,11 @@
 Name:           gnome-video-effects
-Version:        0.4.1
+Version:        0.4.3
 Release:        1%{?dist}
 Summary:        Collection of GStreamer video effects
 
 Group:          System Environment/Libraries
 License:        GPLv2
-URL:            http://live.gnome.org/GnomeVideoEffects
+URL:            https://wiki.gnome.org/Projects/GnomeVideoEffects
 Source0:        http://ftp.gnome.org/pub/GNOME/sources/%{name}/0.4/%{name}-%{version}.tar.xz
 Buildarch:      noarch
 
@@ -30,12 +30,20 @@ make install DESTDIR=$RPM_BUILD_ROOT
 
 %files
 %defattr(-,root,root,-)
-%doc AUTHORS  COPYING NEWS README
+%doc AUTHORS  NEWS README
+%license COPYING
 %{_datadir}/pkgconfig/gnome-video-effects.pc
 %{_datadir}/gnome-video-effects
 
 
 %changelog
+* Thu Feb 09 2017 Wim Taymans <wtaymans@redhat.com> - 0.4.3-1
+- Update to 0.4.3
+- Resolves: #1386968
+
+* Mon Oct 10 2016 Hans de Goede <hdegoede@redhat.com> - 0.4.1-5
+- Fix URL (rhbz#1380981)
+
 * Mon Apr 14 2014 Richard Hughes <rhughes@redhat.com> - 0.4.1-1
 - Update to 0.4.1
 

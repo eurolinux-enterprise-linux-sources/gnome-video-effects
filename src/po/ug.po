@@ -12,6 +12,7 @@ msgstr ""
 "PO-Revision-Date: 2013-02-25 18:54+0900\n"
 "Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
+"Language: ug\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -305,7 +306,7 @@ msgid "Vertigo"
 msgstr ""
 
 #: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr ""
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv

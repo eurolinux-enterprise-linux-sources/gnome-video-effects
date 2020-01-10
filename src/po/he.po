@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: 2012-02-17 15:07+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: he\n"
-"Language: \n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -306,7 +306,7 @@ msgid "Vertigo"
 msgstr "סחרחורת"
 
 #: ../effects/warptv.effect.in.h:1
-msgid "Transform video input into realtime goo'ing"
+msgid "Transform video input into realtime goo’ing"
 msgstr "הפיכת קלט וידאו למשחקי ג׳ל בזמן אמת"
 
 #. Preview: http://live.gnome.org/GnomeVideoEffects/Effects#warptv
